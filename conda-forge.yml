@@ -1,0 +1,9 @@
+conda_build_tool: rattler-build
+bot:
+  automerge: version
+  version_updates:
+    sources:
+    - github
+
+shellcheck:
+  enabled: true
