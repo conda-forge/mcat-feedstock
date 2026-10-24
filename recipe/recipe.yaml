@@ -1,5 +1,5 @@
 context:
-  version: "0.6.6"
+  version: "0.6.7"
 
 package:
   name: mcat
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Skardyy/mcat/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: f5fc7043ed5b5c467383ba1e2e62f493e629ad729a910d46202cfaa16d58b80a
+  sha256: 4de354c29504d294030183eeb94a0286849c3a02d4ac9253739030061dfd12cf
 
 build:
   number: 0
